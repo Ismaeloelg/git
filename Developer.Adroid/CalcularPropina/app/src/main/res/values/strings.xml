@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CalcularPropina</string>
+    <string name="cuenta">Cuenta: %s </string>
+    <string name="cuentatf">Cuenta</string>
+    <string name="calculo_Prop">Calculo de propinas</string>
+    <string name="porcentaje">Porcentaje</string>
+</resources>

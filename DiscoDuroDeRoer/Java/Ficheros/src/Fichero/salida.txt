@@ -1,0 +1,1 @@
+Soy un fichero que se le va a hacer una copia de seguridad a otro fichero llamado fichero.txt
